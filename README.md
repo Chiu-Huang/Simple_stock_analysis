@@ -10,4 +10,4 @@ This Notebook introduces template for basic stock analysis, including
 For illustration purpose, the author uses 1/N portfolio as a starting point for portfolio construction. 
 
 Detail explanation is in my medium post.
-Link: https://medium.com/p/286f06973a86/edit
+Link: https://medium.com/@huangchingchiu/basic-interactive-stock-analysis-template-286f06973a86
